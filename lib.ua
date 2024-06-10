@@ -3,6 +3,19 @@
 
 # FinancialUiua [lib.ua]
 
+Last ← /↥ ↙¯1
+LastPre ← /↥ ↙¯1 ↘¯1
+LastPrePre ← /↥ ↙¯1 ↘¯2
+
+HighFive ← /↥ ↙¯5
+HighFivePre ← /↥ ↙¯5 ↘¯1
+HighFivePrePre ← /↥ ↙¯5 ↘¯2
+LowFive ← /↧ ↙¯5
+LowFivePre ← /↧ ↙¯5 ↘¯1
+LowFivePrePre ← /↧ ↙¯5 ↘¯2
+
+# Moving average
+
 MovingAvgTwo ← ÷⧻⟜/+ ↙¯2
 MovingAvgThree ← ÷⧻⟜/+ ↙¯3
 MovingAvgFive ← ÷⧻⟜/+ ↙¯5

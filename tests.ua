@@ -25,6 +25,15 @@ Prices ← [2224.1 2223.1 2183.1 2204.1 2211.1
           2505.1 2443.1 2451.1 2466.1 2432.1]
 
 ~ "lib.ua"
+  ~ HighFive
+  ~ HighFivePre
+  ~ HighFivePrePre
+  ~ Last
+  ~ LastPre
+  ~ LastPrePre
+  ~ LowFive
+  ~ LowFivePre
+  ~ LowFivePrePre
   ~ MovingAvgEight
   ~ MovingAvgEightyNine
   ~ MovingAvgFiftyFive
@@ -34,6 +43,17 @@ Prices ← [2224.1 2223.1 2183.1 2204.1 2211.1
   ~ MovingAvgThree
   ~ MovingAvgTwentyOne
   ~ MovingAvgTwo
+
+Last Prices
+LastPre Prices
+LastPrePre Prices
+
+HighFive Prices
+HighFivePre Prices
+HighFivePrePre Prices
+LowFive Prices
+LowFivePre Prices
+LowFivePrePre Prices
 
 MovingAvgTwo Prices
 MovingAvgThree Prices
