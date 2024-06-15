@@ -43,6 +43,8 @@ Prices ← [2224.1 2223.1 2183.1 2204.1 2211.1
   ~ MovingAvgThree
   ~ MovingAvgTwentyOne
   ~ MovingAvgTwo
+  ~ StochasticOscEightThree
+  ~ StochasticOscFiveThree
 
 Last Prices
 LastPre Prices
@@ -64,3 +66,6 @@ MovingAvgTwentyOne Prices
 MovingAvgThirtyFour Prices
 MovingAvgFiftyFive Prices
 MovingAvgEightyNine Prices
+
+StochasticOscFiveThree Prices
+StochasticOscEightThree Prices
